@@ -95,6 +95,9 @@ input:focus {
     border: 0px;
     
 }
+.featured-image {
+  margin-top: 10px;
+}
 @media (max-width: 500px) {
     .main-content {
         margin: 10px 35px;
